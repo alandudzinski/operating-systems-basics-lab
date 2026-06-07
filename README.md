@@ -79,6 +79,26 @@ Useful Linux commands:
 | Read file contents | `type file.txt` | `cat file.txt` |
 
 ## 7. Mini Lab: Collect System Information
+### Windows
+Commands to run:
+```powershell
+whoami
+hostname
+ipconfig
+systeminfo
+tasklist
+```
+
+### Linux
+Commands to run:
+```bash
+whoami
+hostname
+ip addr
+uname -a
+cat /etc/os-release
+ps aux
+```
 
 ## 8. OS Security Basics
 
