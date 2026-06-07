@@ -101,10 +101,30 @@ ps aux
 ```
 
 ## 8. OS Security Basics
+Operating systems include security features to protect users, files, and processes.
+
+Important OS security concepts:
+- User accounts
+- Passwords
+- File permissions
+- Administrator/root privileges
+- Updates and patches
+- Running processes
+- Remote access such as SSH
 
 ## 9. Cybersecurity Key Takeaways
+Cybersecurity professionals need to understand OS knowledge because attackers often target operating systems. 
+
+Security professionals use OS skills to:
+- Investigate compromised machines
+- Check running processes
+- Review users and permissions
+- Analyze suspicious files
+- Secure remote access
+- Collect system information
 
 ## 10. What I Learned
+From this module, I learned that operating systems control how users, software, and hardware interact with each other. The biggest takeaway is that cybersecurity requires command-line skills. Whether working on Windows, Linux, or someplace else, I need to know how to navigate files, check system information, and understand permissions.
 
 ## References
 - TryHackMe. "Introduction to Cyber Security." TryHackMe, [https://tryhackme.com/](https://tryhackme.com/module/operating-systems-basics)
