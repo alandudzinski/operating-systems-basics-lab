@@ -23,12 +23,60 @@ Examples:
 - iOS
 
 ## 3. GUI vs CLI
+| Interface | Meaning | Example |
+|---|---|---|
+| GUI | Graphical User Interface | Windows desktop, file explorer |
+| CLI | Command Line Interface | PowerShell, Command Prompt, Bash |
+
+A GUI is easier for everyday users. A CLI is faster and more powerful for technical tasks.
 
 ## 4. Windows CLI Basics
+Windows has two common command-line tools:
+
+| Tool | Purpose |
+|---|---|
+| Command Prompt | Older Windows command line |
+| PowerShell | More powerful Windows automation shell |
+
+Useful Windows commands:
+| Command | Purpose |
+|---|---|
+| `whoami` | Shows current user |
+| `hostname` | Shows computer name |
+| `ipconfig` | Shows network information |
+| `dir` | Lists files and folders |
+| `cd` | Changes directory |
+| `systeminfo` | Shows detailed system information |
+| `net user` | Lists local users |
+| `tasklist` | Shows running processes |
 
 ## 5. Linux CLI Basics
+Linux commonly uses a shell such as Bash.
+
+Useful Linux commands:
+| Command | Purpose |
+|---|---|
+| `whoami` | Shows current user |
+| `hostname` | Shows computer name |
+| `ip addr` | Shows network information |
+| `ls` | Lists files and folders |
+| `cd` | Changes directory |
+| `pwd` | Shows current directory |
+| `uname -a` | Shows system/kernel information |
+| `ps aux` | Shows running processes |
+| `cat /etc/os-release` | Shows Linux distribution information |
 
 ## 6. Windows vs Linux Command Comparison
+| Task | Windows | Linux |
+|---|---|---|
+| Show current user | `whoami` | `whoami` |
+| Show hostname | `hostname` | `hostname` |
+| Show IP info | `ipconfig` | `ip addr` |
+| List files | `dir` | `ls` |
+| Change directory | `cd` | `cd` |
+| Show running processes | `tasklist` | `ps aux` |
+| Show system info | `systeminfo` | `uname -a` |
+| Read file contents | `type file.txt` | `cat file.txt` |
 
 ## 7. Mini Lab: Collect System Information
 
