@@ -1,8 +1,26 @@
 # Operating Systems Basics Lab: Windows, Linux, CLI, and OS Security
 
 ## 1. Project Overview
+This project goes over the core concepts from TryHackMe's Operating Systems Basics module. The goal is to explain what an operating system does, compare Windows and Linux command line tools, and show how basic system information can be collected from each operating system.
 
 ## 2. What an Operating System Does
+An operating system is the layer between the user and the computer hardware.
+
+It manages:
+- Processes
+- Memory
+- Files
+- Users
+- Devices
+- Networking
+- Security Permissions
+
+Examples:
+- Windows
+- Linux
+- macOS
+- Android
+- iOS
 
 ## 3. GUI vs CLI
 
