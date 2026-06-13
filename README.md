@@ -127,7 +127,7 @@ Security professionals use OS skills to:
 From this module, I learned that operating systems control how users, software, and hardware interact with each other. The biggest takeaway is that cybersecurity requires command-line skills. Whether working on Windows, Linux, or someplace else, I need to know how to navigate files, check system information, and understand permissions.
 
 ## References
-- TryHackMe. "Introduction to Cyber Security." TryHackMe, [https://tryhackme.com/](https://tryhackme.com/module/operating-systems-basics)
+- TryHackMe. "Operating Systems Basics." TryHackMe, [https://tryhackme.com/](https://tryhackme.com/module/operating-systems-basics)
 
 ## Disclaimer
 This project is for educational purposes only. It summarizes concepts learned through TryHackMe and does not include walkthrough answers, flags, or private room solutions.
